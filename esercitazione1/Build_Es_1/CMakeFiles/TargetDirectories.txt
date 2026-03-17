@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/Esercizi_PCS_2026/Esercitazione_1/Build_Es_1/CMakeFiles/test.dir
+/home/pcsdocker/Data/Esercizi_PCS_2026/Esercitazione_1/Build_Es_1/CMakeFiles/Medie_Temperature.dir
+/home/pcsdocker/Data/Esercizi_PCS_2026/Esercitazione_1/Build_Es_1/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Esercizi_PCS_2026/Esercitazione_1/Build_Es_1/CMakeFiles/rebuild_cache.dir
