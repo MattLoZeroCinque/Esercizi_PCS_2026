@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/Esercizi_PCS_2026/esercitazione2/Build_Es_2/CMakeFiles/Positioning_prog.dir
+/home/pcsdocker/Data/Esercizi_PCS_2026/esercitazione2/Build_Es_2/CMakeFiles/Primi_Algoritmi_prog.dir
+/home/pcsdocker/Data/Esercizi_PCS_2026/esercitazione2/Build_Es_2/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/Esercizi_PCS_2026/esercitazione2/Build_Es_2/CMakeFiles/rebuild_cache.dir

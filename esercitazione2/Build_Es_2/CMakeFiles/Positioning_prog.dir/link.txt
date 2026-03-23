@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/Positioning_prog.dir/link.d CMakeFiles/Positioning_prog.dir/Positioning.cpp.o -o Positioning_prog

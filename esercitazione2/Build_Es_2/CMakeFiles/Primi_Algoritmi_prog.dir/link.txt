@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/Primi_Algoritmi_prog.dir/link.d CMakeFiles/Primi_Algoritmi_prog.dir/Primi_Algoritmi.cpp.o -o Primi_Algoritmi_prog

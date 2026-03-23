@@ -1,0 +1,13 @@
+NOTE PERSONALI ESERCITAZIONE_2
+
+
+
+SCRITTURA
+
+
+g++ -o Positioning_prog Positioning.cpp                  // Esercizio 1
+./Positioning_prog
+
+
+g++ -o Primi_Algoritmi_prog Primi_Algoritmi.cpp          // Esercizio 2
+./Primi_Algoritmi_prog
