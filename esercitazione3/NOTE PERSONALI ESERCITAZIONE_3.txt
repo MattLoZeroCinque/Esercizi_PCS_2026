@@ -1,0 +1,9 @@
+NOTE PERSONALI ESERCITAZIONE_3
+
+
+
+SCRITTURA
+
+
+g++ -std=c++20 -o Prova_Razionali_prog Prova_Razionali.cpp
+./Prova_Razionali_prog

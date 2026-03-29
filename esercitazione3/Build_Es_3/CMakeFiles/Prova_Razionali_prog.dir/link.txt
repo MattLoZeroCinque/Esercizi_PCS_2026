@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/Prova_Razionali_prog.dir/link.d CMakeFiles/Prova_Razionali_prog.dir/Prova_Razionali.cpp.o -o Prova_Razionali_prog
