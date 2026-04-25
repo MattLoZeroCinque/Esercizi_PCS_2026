@@ -1,0 +1,10 @@
+OSSERVAZIONI SUL GRAFICO E SULL'OUTPUT
+
+
+
+Dall'analisi del grafico e dei tempi raccolti si evince che:
+
+- Per vettori di piccole dimensioni (in particolare sotto la soglia dell'n̄, n barrata) gli algoritmi (più semplici - e con complessità computazionale di O(n²)) come l’Insertion Sort, il Selection Sort ed il Bubble Sort sono i più veloci. 
+- Superata la soglia dell'n̄, sono gli algoritmi come quello fornito dalla libreria standard, il Merge Sort ed il Quick Sort (con complessità computazionale di O(nlog(n))) ad essere i più efficienti in tempo - differenza che si fa sempre più evidente all'aumentare di N.
+- Il valore soglia n̄ è stato ottenuto graficamente osservando il punto in cui la curva dell'Insertion Sort e quella del Quick Sort si incrociano (quest'ultimo è nel suddetto grafico il primo ad incrociare l'Insertion Sort); è dunque possibile identificare il valore cercato tra N=41 ed N=42 (si veda lo screenshot "Intersezione nel grafico" all'interno della cartella "Matlab_Ottimo"), scegliendo come n̄ il secondo, per trovare il primo intero dopo l'intersezione.
+- Verrà infine e successivamente utilizzato questo valore (n̄=42) per implementare una versione ottimizzata del Quick Sort, che passerà all'Insertion Sort ogni qual volta il sottovettore sia strettamente minore di questa soglia, combinando così la velocità dei due algoritmi.

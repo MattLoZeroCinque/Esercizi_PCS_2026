@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/test_mergesort.dir/link.d CMakeFiles/test_mergesort.dir/Testing_MergeSort.cpp.o -o test_mergesort

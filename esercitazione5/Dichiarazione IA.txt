@@ -1,0 +1,12 @@
+DICHIARAZIONE SULL'UTILIZZO DELL'IA NELLO SVOLGIMENTO DELL'ESERCITAZIONE
+
+
+
+Uso dell'IA nei seguenti punti dell'esercitazione:
+
+- FILE HPP: Sorting_Algorithm  -->  Aiuto nella definizione dell'algoritmo ottimizzato (dopo aver avuto personalmente l'idea, input mentale sulla realizzazione riguardo la partizione del vettore.
+- FILES CPP  -->  Aiuto nel definire la struttura organizzativa degli stessi.
+- FILES MATLAB: Script  -->  Rifinitura estetica del grafico e riporto dei dati mostrati nello screen all'interno della cartella 'Matlab'.
+
+
+In generale, l'IA è stata utilizzata per TUTTO l'arco dell'esercitazione in questione come guida sui successivi step da svolgere, sia per darmi modo di orientarmi nell'esecuzione del compito sia proprio come fosse un "docente virtuale", facendo all'incirca le stesse domande che avrei rivolto ad uno in carne ed ossa durante una lezione di laboratorio - nella mia interpretazione, è il modo corretto di usare l'IA.
