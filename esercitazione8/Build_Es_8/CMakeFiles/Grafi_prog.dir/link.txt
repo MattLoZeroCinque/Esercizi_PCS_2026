@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/Grafi_prog.dir/link.d CMakeFiles/Grafi_prog.dir/Creazione_Grafo.cpp.o -o Grafi_prog
