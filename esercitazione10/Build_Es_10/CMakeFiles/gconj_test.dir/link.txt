@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -Wl,--dependency-file=CMakeFiles/gconj_test.dir/link.d CMakeFiles/gconj_test.dir/Test_Gradiente_Coniugato.cpp.o -o gconj_test
